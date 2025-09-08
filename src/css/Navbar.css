@@ -1,0 +1,15 @@
+.nav-container {
+  height: "50px";
+  border: "1px solid black";
+  margin: "auto";
+  background: "black";
+  color: "white";
+  display:flex;
+}
+
+.logo-container {
+ display: block;
+ height :100%;
+ flex: 0 0 20%;
+ border: 1px solid black
+}
